@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mini-project-day2</title>
+</head>
+<body>
+    <h1>Form Pendaftaran Karyawan</h1>
+    <hr>
+    <form>
+        <label for="nama">Nama Lengkap</label>
+        <br>
+        <input type="text" id="nama" name="nama" placeholder="Masukkan Nama Lengkap Anda" required >
+        <br>
+        <label for="email">Email</label>
+        <br>
+        <input type="email" id="email" name="email" placeholder="Masukkan Email Anda" required>
+        <br>
+        <label for="password">Password</label>
+        <br>
+        <input type="password" id="password" name="password" placeholder="Masukkan Password Anda" required>
+        <br>
+        <label for="nohp">Nomor HP</label>
+        <br>
+        <input type="tel" id="nohp" name="nohp" placeholder="Masukkan Nomor HP anda" required>
+        <br>
+        <label>Jenis Kelamin</label>
+        <br>
+        <input type="radio" name="kelamin" id="laki" required>
+        <label for="laki">Laki-Laki</label>
+        <input type="radio" name="kelamin" id="perempuan" required>
+        <label for="perempuan">Perempuan</label>
+
+        <br>
+        <label for="alamat">Alamat</label>
+        <br>
+        <textarea name="alamat" id="alamat">Masukkan Alamat Anda</textarea>
+        <br>
+        <label for="posisi">Posisi Yang Dilamar</label>
+        <br>
+        <select name="posisi" id="posisi" required>
+            <option value="">Pilih Posisi</option>
+            <option value="admin">Admin</option>
+            <option value="hrd">HRD</option>
+        </select>
+        <br><br>
+        <button type="submit">Daftar</button>
+    </form>
+</body>
+</html>
