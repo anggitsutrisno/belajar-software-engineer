@@ -8,7 +8,7 @@ Repository ini berisi dokumentasi perjalanan saya belajar menjadi **Backend Soft
 - [x] Day 1 - HTML Dasar
 - [x] Day 2 - HTML Form
 - [x] Day 3 - HTML Table
-- [ ] Day 4 - Semantic HTML
+- [x] Day 4 - Semantic HTML
 - [ ] Day 5 - Multimedia & Layout
 
 ### CSS
@@ -26,7 +26,7 @@ Repository ini berisi dokumentasi perjalanan saya belajar menjadi **Backend Soft
 
 ### Git & GitHub
 - [x] Git Dasar
-- [x] GitHub Dasar
+- [x] GitHub Dasarw
 - [ ] Branch
 - [ ] Merge
 - [ ] Pull Request
