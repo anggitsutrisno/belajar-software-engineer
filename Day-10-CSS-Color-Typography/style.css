@@ -10,6 +10,7 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
+    text-shadow: 2px 2px 5px gray;
 }
 
 h2 {
@@ -17,7 +18,9 @@ h2 {
 }
 
 p {
-    color: rgba(100, 0, 0, 0.7)
+    color: rgba(100, 0, 0, 0.7);
+    line-height: 1.8;
+    font-style: italic;
 }
 
 button {
