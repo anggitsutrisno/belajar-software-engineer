@@ -1,0 +1,45 @@
+
+#header{
+    background-color: blue;
+    color: rgb(217, 217, 217);
+    text-shadow: aliceblue;
+}
+
+*{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    padding: 0.5px;
+    box-sizing: border-box;
+}
+nav{
+    font-size:larger;
+    color: blueviolet;
+}
+
+.class1{
+    color: chartreuse;
+}
+
+p{
+    color: black;
+}
+ul li{
+    display: inline;
+}
+
+h3,p{
+    background-color: bisque;
+}
+
+.btn{
+    background-color: royalblue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.btn:hover{
+    background-color: darkcyan;
+}
