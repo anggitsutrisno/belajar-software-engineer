@@ -1,6 +1,6 @@
 # 📚 Belajar Software Engineer
 
-Repository ini berisi perjalanan belajar saya menjadi seorang **Software Engineer** mulai dari HTML, CSS, JavaScript, Java, Spring Boot, Database, hingga Full Stack Development.
+Repository ini berisi perjalanan belajar saya menjadi seorang **Software Engineer**, dimulai dari HTML, CSS, JavaScript, Java, Spring Boot, Database, hingga Full Stack Development.
 
 ---
 
@@ -8,35 +8,36 @@ Repository ini berisi perjalanan belajar saya menjadi seorang **Software Enginee
 
 ## ✅ HTML
 
-- Day 1 - HTML Dasar
-- Day 2 - HTML Form
-- Day 3 - HTML Table
-- Day 4 - Semantic HTML
-- Day 5 - HTML Multimedia
-- Day 6 - HTML Layout & Embed
-- Day 7 - Final HTML Challenge
+- ✅ Day 1 - HTML Dasar
+- ✅ Day 2 - HTML Form
+- ✅ Day 3 - HTML Table
+- ✅ Day 4 - Semantic HTML
+- ✅ Day 5 - HTML Multimedia
+- ✅ Day 6 - HTML Layout & Embed
+- ✅ Day 7 - Final HTML Challenge
 
 ---
 
 ## 🎨 CSS
 
 - ✅ Day 8 - CSS Dasar
-- ⏳ Day 9 - CSS Selector
-- ⏳ Day 10 - Color & Typography
+- ✅ Day 9 - CSS Selector
+- ⏳ Day 10 - CSS Color & Typography
 - ⏳ Day 11 - CSS Box Model
 - ⏳ Day 12 - Flexbox
 - ⏳ Day 13 - CSS Grid
 - ⏳ Day 14 - Responsive Web Design
+- ⏳ Day 15 - Final CSS Project
 
 ---
 
 ## 🚀 Selanjutnya
 
 - JavaScript
-- Git Lanjutan
+- Git & GitHub Lanjutan
 - Java
-- Spring Boot
 - MySQL
+- Spring Boot
 - REST API
 - Docker
 - Deployment
