@@ -44,9 +44,9 @@ nav{
     font-size: 20px;
     font-weight: 300;
     font-style: oblique;
-    line-height: 2px;
+    line-height: 1.6;
     padding: 10px;
-    color: rgba(red, green, blue, alpha);
+    color: rgba(255, 0, 0, 0.7);
 
 }
 
@@ -60,11 +60,12 @@ nav{
     font-size: 20px;
     color: hwb(0 0% 100%);
     padding: 12px 500px;
-    width: 2000px;
+    width: 100%;
     margin: 10px;
     border: 2px solid;
     
 }
+
 caption{
     text-transform: uppercase;
     font-weight: bold;
@@ -79,7 +80,7 @@ tbody{
 .status{
     background-color: greenyellow;
 }
-.hai{
+.form-pemesanan{
     border: 5px solid;
     width: 300px;
     text-align:center;
@@ -114,7 +115,7 @@ section{
 #btnreset{
     background-color: white;
     cursor:pointer ;
-    transition: 1.2;
+    transition: 1.2s;
     border: 2px solid;
     padding: 12px 25px;
     border-radius: 10px;
@@ -150,5 +151,29 @@ label{
     text-align: center;
     width: 500px;
     margin: 10px 400px;
+}
+
+.video{
+    text-align: center;
+    border: 2px solid;
+    
+}
+
+.Lokasi{
+    text-align: center;
+}
+
+.kontak{
+    border: 2px solid;
+    padding: 10px 60px;
+    font-weight: bolder;
+
+}
+.btn{
+    font-weight: bolder;
+}
+
+footer{
+    font-weight: bolder;
 }
 
