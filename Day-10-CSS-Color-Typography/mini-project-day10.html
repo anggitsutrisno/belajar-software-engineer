@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mini - Project Day 10</title>
-<link rel="stylesheet" href="mini_style.css">
+    <link rel="stylesheet" href="mini_style.css">
 </head>
 
 <body>
@@ -77,23 +77,23 @@
                     <tr>
                         <td>Website</td>
                         <td> 30 Hari</td>
-                        <td> Ready </td>
+                        <td class="status"> Ready </td>
                     </tr>
                     <tr>
                         <td>Mobile App</td>
                         <td>65 Hari</td>
-                        <td>Ready</td>
+                        <td class="status">Ready</td>
                     </tr>
                     <tr>
                         <td>Sistem Informasi</td>
                         <td>45 Hari</td>
-                        <td>Ready</td>
+                        <td class="status">Ready</td>
                     </tr>
                 </tbody>
             </table>
         </section>
         <hr>
-        <section class="formp">
+        <section class="hai">
             <h2>Form Pemesanan</h2>
             <form action="">
                 <Label for="nama">Nama Lengkap</Label>
@@ -112,14 +112,45 @@
                 <br>
                 <textarea name="pesanan" id="pesanan" placeholder="Maukkan Pesanan Anda" required></textarea>
                 <br>
-                <button type="submit">PESAN</button> <button type="reset">RESET</button>
+                <button id="btnpesan" type="submit">PESAN</button> <button id="btnreset" type="reset">RESET</button>
             </form>
         </section>
-        <section>
+        <hr>
+        <section class="audio">
             <h2>Audio Company</h2>
-        
+            <audio controls>
+                <source src="../Day-05-HTML-Multimedia/audio/company-profile.mpeg" type="audio/mpeg">Browser Anda Tidak
+                Mendukung Pemutaran Audio
+            </audio>
+        </section>
+        <hr>
+        <section class="video">
+            <h2>Video Company</h2>
+            <video controls width="300">
+                <source src="/Day-05-HTML-Multimedia/videos/company-profile.mp4" type="video/mp4">Browser Anda Tidak
+                Mendukung Pemutaran Video
+            </video>
+        </section>
+        <hr>
+        <section class="Lokasi">
+            <h2>Lokasi Perusahaan</h2>
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2861.9562625030158!2d104.07726477310086!3d1.1031834623229493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d9894c42e74c3d%3A0x7daf38331e0ce1a5!2sCluster%20Garuda%20Raya%20KDA!5e1!3m2!1sid!2sid!4v1784388412005!5m2!1sid!2sid"
+                title="Lokasi perusahaan" width="600" height="450;" allowfullscreen="" loading="lazy"
+                referrerpolicy="strict-origin-when-cross-origin">Lokasi Perusahaan</iframe>
+        </section>
+        <hr>
+        <section class="kontak">
+            <h2>kontak Kami</h2>
+            <p>nama : Anggit Sutrisno</p>
+            <p>email : anggitsutrisno9@gmail.com</p>
+            <p>Nomor handphone: 089517615929</p>
+            <button class="btn">Hubungi Kami</button>
         </section>
     </main>
+    <footer>
+        <p>>&copy; 2026 Nerazurra Dev Studio.All Rights Reserved.</p>
+    </footer>
 </body>
 
 </html>
