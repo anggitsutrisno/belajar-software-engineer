@@ -1,196 +1,202 @@
-# 🚀 Belajar Software Engineer
+# 🚀 Belajar Menjadi Software Engineer
 
-Repository ini berisi dokumentasi perjalanan saya dalam mempelajari Software Engineering dari dasar hingga menjadi Backend Software Engineer.
-
-Setiap materi disertai dengan latihan, mini project, dan dokumentasi hasil belajar.
+Repository ini berisi perjalanan belajar saya dari dasar hingga menjadi seorang **Backend Software Engineer**.
 
 ---
 
 # 👨‍💻 Tentang Saya
 
-**Nama:** Anggit Sutrisno
+**Nama :** Anggit Sutrisno
 
-🎓 Informatics Engineering Student
-
-🎯 Target Career:
-- Backend Software Engineer
-- Full Stack Developer
+Mahasiswa Teknik Informatika Universitas Putera Batam yang sedang mempelajari Web Development, Backend Development, Database, Git, serta Software Engineering.
 
 ---
 
-# 📚 Roadmap Belajar
+# 🛣 Roadmap Belajar
 
-## ✅ HTML
+## HTML
 
-| Day | Materi | Status |
-|-----|--------|--------|
-| Day 1 | HTML Basic | ✅ |
-| Day 2 | HTML Form | ✅ |
-| Day 3 | HTML Table | ✅ |
-| Day 4 | Semantic HTML | ✅ |
-| Day 5 | HTML Multimedia | ✅ |
-| Day 6 | HTML Layout & Embed | ✅ |
-| Day 7 | Final HTML Project | ✅ |
+- ✅ Day 1 HTML Introduction
+- ✅ Day 2 HTML Form
+- ✅ Day 3 HTML Table
+- ✅ Day 4 Semantic HTML
+- ✅ Day 5 HTML Multimedia
+- ✅ Day 6 HTML Layout & Embed
+- ✅ Day 7 Final HTML Project
 
 ---
 
-## ✅ CSS
+## CSS
 
-| Day | Materi | Status |
-|-----|--------|--------|
-| Day 8 | CSS Basic | ✅ |
-| Day 9 | CSS Selector | ✅ |
-| Day 10 | CSS Color & Typography | ✅ |
-| Day 11 | CSS Box Model | ⏳ |
-| Day 12 | CSS Flexbox | ⏳ |
-| Day 13 | CSS Grid | ⏳ |
-| Day 14 | Responsive Web Design | ⏳ |
-| Day 15 | Final CSS Project | ⏳ |
+- ✅ Day 8 CSS Basic
+- ✅ Day 9 CSS Selector
+- ✅ Day 10 CSS Color & Typography
+- ✅ Day 11 CSS Box Model
+- ⏳ Day 12 CSS Flexbox
+- ⏳ Day 13 CSS Grid
+- ⏳ Day 14 Responsive Web Design
+- ⏳ Day 15 Final CSS Project
 
 ---
 
-## 🔜 JavaScript
+## JavaScript (Next)
 
-| Day | Materi | Status |
-|-----|--------|--------|
-| Day 16 | JavaScript Introduction | ⏳ |
-| Day 17 | Variables & Data Types | ⏳ |
-| Day 18 | Operators | ⏳ |
-| Day 19 | Conditional Statement | ⏳ |
-| Day 20 | Loop | ⏳ |
-| Day 21 | Function | ⏳ |
-| Day 22 | Array | ⏳ |
-| Day 23 | Object | ⏳ |
-| Day 24 | DOM | ⏳ |
-| Day 25 | Mini Project JavaScript | ⏳ |
-
----
-
-# 🛠️ Mini Projects
-
-### ✅ Day 5
-Company Profile Multimedia
-
-### ✅ Day 6
-HTML Layout & Embed
-
-### ✅ Day 7
-Final HTML Company Profile
-
-### ✅ Day 10
-Nerazurra Dev Studio - CSS Color & Typography
-
----
-
-# 💻 Technologies Learned
-
-## HTML5
-
-- HTML Structure
-- Semantic HTML
-- Form
-- Table
-- Multimedia
-- Layout
-- Embed
-- Company Profile
-
-## CSS3
-
-- CSS Selector
-- Colors
-- Typography
-- Hover Effect
-- Transition
-- Border
-- Border Radius
-- Table Styling
-- Form Styling
+- Variables
+- Data Types
+- Operator
+- Conditional
+- Loop
+- Function
+- Array
+- Object
+- DOM
+- Fetch API
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-Belajar-Software-Engineer/
+Belajar-Software-Engineer
 │
-├── Day-01-HTML-Profil/
-├── Day-02-HTML-Form/
-├── Day-03-HTML-Table/
-├── Day-04-Semantic-HTML/
-├── Day-05-HTML-Multimedia/
-├── Day-06-HTML-Layout-Embed/
-├── Day-07-Final-HTML-Project/
-├── Day-08-CSS-Basic/
-├── Day-09-CSS-Selector/
-├── Day-10-CSS-Color-Typography/
+├── Day-01-HTML-Profil
+├── Day-02-HTML-Form
+├── Day-03-HTML-Table
+├── Day-04-Semantic-HTML
+├── Day-05-HTML-Multimedia
+├── Day-06-HTML-Layout
+├── Day-07-Final-HTML-Project
+│
+├── Day-08-CSS-Basic
+├── Day-09-CSS-Selector
+├── Day-10-CSS-Color-Typography
+├── Day-11-CSS-Box-Model
 │
 └── README.md
 ```
 
 ---
 
-# 📈 Progress Belajar
+# 🛠 Skills Learned
 
-### HTML
+## HTML
 
-████████████████████ **100%**
-
-### CSS
-
-██████░░░░░░░░░░░░ **37.5%**
-
-### JavaScript
-
-░░░░░░░░░░░░░░░░░░ **0%**
-
-### Backend Roadmap
-
-░░░░░░░░░░░░░░░░░░ **0%**
-
----
-
-# 🎯 Target Selanjutnya
-
-- ✅ Menyelesaikan CSS
-- ⏳ Menguasai JavaScript
-- ⏳ Belajar Git & GitHub
-- ⏳ Belajar Java
-- ⏳ Belajar Database MySQL
-- ⏳ Belajar Spring Boot
-- ⏳ REST API
-- ⏳ Authentication
-- ⏳ Docker
-- ⏳ Deployment
-- ⏳ Portfolio Project
+- HTML Structure
+- Heading
+- Paragraph
+- List
+- Link
+- Image
+- Table
+- Form
+- Semantic HTML
+- Multimedia
+- Layout
+- Google Maps Embed
+- YouTube Embed
 
 ---
 
-# 📌 Learning Goals
+## CSS
 
-- Menjadi Backend Software Engineer.
-- Membangun portfolio yang profesional.
-- Memahami dasar Frontend sebelum beralih ke Backend.
-- Konsisten belajar dan mengunggah hasil ke GitHub.
-
----
-
-# ⭐ GitHub Commit History
-
-Setiap materi akan diakhiri dengan:
-
-- 📖 Dokumentasi
-- 💻 Mini Project
-- 📝 README
-- 🚀 Git Commit
-- ☁️ GitHub Push
+- CSS Introduction
+- External CSS
+- Selectors
+- Colors
+- Typography
+- Width
+- Height
+- Padding
+- Margin
+- Border
+- Border Radius
+- Box Model
+- Overflow
 
 ---
 
-## 👨‍💻 Author
+# 📊 Progress
+
+## HTML
+
+```
+████████████████████ 100%
+```
+
+## CSS
+
+```
+██████████░░░░░░░░░░ 50%
+```
+
+Overall Progress
+
+```
+████████░░░░░░░░░░░░ 35%
+```
+
+---
+
+# 💻 Mini Projects
+
+✅ HTML Personal Profile
+
+✅ HTML Form
+
+✅ HTML Table
+
+✅ Company Profile
+
+✅ HTML Multimedia
+
+✅ HTML Layout
+
+✅ Final HTML Project
+
+✅ CSS Selector Website
+
+✅ Nerazurra Dev Studio
+
+---
+
+# 🎯 Learning Goals
+
+- Become Backend Software Engineer
+- Master HTML
+- Master CSS
+- Master JavaScript
+- Learn Git & GitHub
+- Learn MySQL
+- Learn Java
+- Learn Spring Boot
+- Learn REST API
+- Learn Docker
+- Learn Deployment
+- Build Portfolio Projects
+
+---
+
+# 🚀 Git Workflow
+
+```bash
+git add .
+git commit -m "feat: complete Day 11 CSS Box Model"
+git push origin main
+```
+
+---
+
+# ⭐ Progress Summary
+
+- HTML : ✅ Completed
+- CSS : 🚧 In Progress
+- JavaScript : ⏳ Not Started
+- Backend : ⏳ Coming Soon
+
+---
+
+# 📌 Author
 
 **Anggit Sutrisno**
 
-🎓 Informatics Engineering Student
-
-🚀 Future Backend Software Engineer
+Future Backend Software Engineer 🚀
